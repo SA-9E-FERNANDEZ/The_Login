@@ -1,0 +1,44 @@
+h1{
+
+  font-size: 70px;
+  font-family: 'Comfortaa';
+  color: beige;
+}
+
+body{ 
+  text-align: center;
+  background-image: url(https://wallpapers.com/images/hd/gossip-girl-series-digital-cover-d99pkrwwvz9gf9ho.jpg);
+  background-repeat: no-repeat;
+  background-size: 1390px 850px
+}
+
+label{
+  font-size: 15px;
+  font-family: 'Comfortaa';
+  color: floralwhite;
+  text-align: left;
+  border-color: ;
+}
+
+p{
+  font-size: 10px;
+  font-family: 'Comfortaa';
+
+}
+
+img {
+  border-radius: 150px;
+  width: 100px;
+  height: 100px;
+
+}
+
+.container {
+  background-color: black;
+  width: 200px;
+  margin: auto;
+  border: 5px solid white;
+  border-radius: 25px;
+  padding: 25px;
+}
+
